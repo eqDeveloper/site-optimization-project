@@ -1,8 +1,8 @@
 # Website Performance Optimization portfolio project
 
-## Original Site: [Score Before](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Feqdeveloper.github.io%2Fsite-optimization-original%2F)
+## Original Site: [Score Before](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Feqdeveloper.github.io%2Fsite-optimization-original%2F) Score: 71/100
 
-## Updated Site: [Score After](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Feqdeveloper.github.io%2Fsite-optimization-project%2F)
+## Updated Site: [Score After](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Feqdeveloper.github.io%2Fsite-optimization-project%2F) Score: 99/100
 
 Live Final Site: [https://eqdeveloper.github.io/site-optimization-project/](https://eqdeveloper.github.io/site-optimization-project/)
 
