@@ -1,4 +1,4 @@
-# Website Performance Optimization portfolio project
+# Udacity Website Performance Optimization portfolio project
 
 ## Original Site: [Score Before](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Feqdeveloper.github.io%2Fsite-optimization-original%2F) Score: 71/100
 
